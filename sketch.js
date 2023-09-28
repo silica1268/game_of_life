@@ -1,4 +1,4 @@
-const cols = 250;
+const cols = 256;
 const rows = cols;
 var board, tempBoard;
 
